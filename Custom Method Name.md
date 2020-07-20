@@ -1,1 +1,1 @@
-![](images/Custom_Method_ Name.PNG)
+![](images/Custom_Method_Name.PNG)
