@@ -1,2 +1,2 @@
-Content Negotiation
+Content Negotiation<br/>
 ![](images/Content_Negotiation.PNG)
